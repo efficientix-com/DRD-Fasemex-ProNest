@@ -1,0 +1,10 @@
+<clientscript scriptid="customscript_tkio_load_catalogue_cs">
+  <description>Script que servirá para controlar las acciones de la pantalla Carga de catálogos</description>
+  <isinactive>F</isinactive>
+  <name>TKIO - Carga de Catalogos - CS</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/Desarrollo-Pronest/tkio_catalogo_marcas_cs.js]</scriptfile>
+</clientscript>
